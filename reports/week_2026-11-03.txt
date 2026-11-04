@@ -1,0 +1,12 @@
+WEEKLY INTERNSHIP DIARY REPORT
+From: 2026-10-28 To: 2026-11-03
+----------------------------------------
+2026-10-28      5          Created activity log
+2026-10-29      6          Studied tar backup
+2026-10-30      7          Learned cron jobs
+2026-10-31      5          Tested shell scripts
+2026-11-01      6          Fixed script errors
+2026-11-02      7          Prepared weekly report
+2026-11-03      6          Learned Linux shell scripting
+
+Total weekly hours: 42.00
